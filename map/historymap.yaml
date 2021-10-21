@@ -1,0 +1,8 @@
+%YAML:1.0
+
+map_rows: 501 # 501
+map_cols: 251 # 251
+center_rows: 351 # 351
+center_cols: 126 # 126
+
+resolution: 0.2
